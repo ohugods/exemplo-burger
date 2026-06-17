@@ -1,0 +1,11 @@
+{
+  "name": "exemplo-burger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Cardápio digital da hamburgueria fictícia Exemplo — peça de vitrine Dalmasio (frontend puro, sem build).",
+  "scripts": {
+    "dev": "node serve.mjs",
+    "start": "node serve.mjs"
+  }
+}
