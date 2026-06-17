@@ -10,7 +10,7 @@ export const RESTAURANT = {
   neighborhood: "Vila Madalena",
   phone: "(11) 4002-8922",
   phoneRaw: "1140028922",
-  whatsapp: "5511940028922",
+  whatsapp: "5527999659720",
   email: "ola@exemplo.com.br",
   address: {
     line1: "Rua das Brasas, 187 — Vila Madalena",

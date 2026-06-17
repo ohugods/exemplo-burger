@@ -57,6 +57,13 @@ export const icons = {
   chef: svg(
     '<path d="M7 14a4 4 0 0 1-1-7.8A3.6 3.6 0 0 1 12 4a3.6 3.6 0 0 1 6 2.2A4 4 0 0 1 17 14z"/><path d="M7 14v4.5A1.5 1.5 0 0 0 8.5 20h7a1.5 1.5 0 0 0 1.5-1.5V14"/><path d="M7.5 17.2h9"/>'
   ),
+
+  // --- pedido / sacola ---
+  plus: svg('<path d="M12 5v14M5 12h14"/>'),
+  minus: svg('<path d="M5 12h14"/>'),
+  bag: svg('<path d="M6 8h12l.9 11.2a1.6 1.6 0 0 1-1.6 1.8H6.7a1.6 1.6 0 0 1-1.6-1.8z"/><path d="M9 9V6.5a3 3 0 0 1 6 0V9"/>'),
+  trash: svg('<path d="M4 7h16M9.5 7V5.2A1.2 1.2 0 0 1 10.7 4h2.6a1.2 1.2 0 0 1 1.2 1.2V7M6.5 7l.9 12.2a1.4 1.4 0 0 0 1.4 1.3h6.4a1.4 1.4 0 0 0 1.4-1.3L18 7"/>'),
+  copy: svg('<rect x="9" y="9" width="11" height="11" rx="2.2"/><path d="M5 15.5V6a2 2 0 0 1 2-2h9.5"/>'),
 };
 
 export function icon(name) {
