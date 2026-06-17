@@ -8,8 +8,8 @@ export const RESTAURANT = {
   story:
     "Moemos o blend todo dia (acém com fraldinha) e selamos na chapa de ferro a 230°C. Pães e molhos saem da nossa cozinha — nunca de pacote.",
   neighborhood: "Vila Madalena",
-  phone: "(11) 4002-8922",
-  phoneRaw: "1140028922",
+  phone: "(27) 99965-9720",
+  phoneRaw: "27999659720",
   whatsapp: "5527999659720",
   email: "ola@exemplo.com.br",
   address: {
